@@ -13,7 +13,5 @@ A **full-stack Ecommerce Web Application** built using the **MERN stack** (Mongo
 - JavaScript  
 - VS Code  
 
----
 
-## 📂 Project Structure
 
