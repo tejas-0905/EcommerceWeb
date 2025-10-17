@@ -2,7 +2,6 @@
 
 A **full-stack Ecommerce Web Application** built using the **MERN stack** (MongoDB, Express, React, Node.js) with an **Admin Panel** to manage products, orders, and users.
 
---
 
 # How to Setup & Run this Project
 
